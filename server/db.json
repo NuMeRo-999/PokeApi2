@@ -1,0 +1,380 @@
+{
+  "pokemonData": [
+    {
+      "name": "bulbasaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/1/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+      },
+      "abilities": [
+        "overgrow",
+        "chlorophyll"
+      ],
+      "typesData": [
+        {
+          "type": "grass"
+        },
+        {
+          "type": "poison"
+        }
+      ]
+    },
+    {
+      "name": "ivysaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/2/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+      },
+      "abilities": [
+        "overgrow",
+        "chlorophyll"
+      ],
+      "typesData": [
+        {
+          "type": "grass"
+        },
+        {
+          "type": "poison"
+        }
+      ]
+    },
+    {
+      "name": "venusaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/3/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+      },
+      "abilities": [
+        "overgrow",
+        "chlorophyll"
+      ],
+      "typesData": [
+        {
+          "type": "grass"
+        },
+        {
+          "type": "poison"
+        }
+      ]
+    },
+    {
+      "name": "charmander",
+      "url": "https://pokeapi.co/api/v2/pokemon/4/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+      },
+      "abilities": [
+        "blaze",
+        "solar-power"
+      ],
+      "typesData": [
+        {
+          "type": "fire"
+        }
+      ]
+    },
+    {
+      "name": "charmeleon",
+      "url": "https://pokeapi.co/api/v2/pokemon/5/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+      },
+      "abilities": [
+        "blaze",
+        "solar-power"
+      ],
+      "typesData": [
+        {
+          "type": "fire"
+        }
+      ]
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+      },
+      "abilities": [
+        "blaze",
+        "solar-power"
+      ],
+      "typesData": [
+        {
+          "type": "fire"
+        },
+        {
+          "type": "flying"
+        }
+      ]
+    },
+    {
+      "name": "squirtle",
+      "url": "https://pokeapi.co/api/v2/pokemon/7/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+      },
+      "abilities": [
+        "torrent",
+        "rain-dish"
+      ],
+      "typesData": [
+        {
+          "type": "water"
+        }
+      ]
+    },
+    {
+      "name": "wartortle",
+      "url": "https://pokeapi.co/api/v2/pokemon/8/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+      },
+      "abilities": [
+        "torrent",
+        "rain-dish"
+      ],
+      "typesData": [
+        {
+          "type": "water"
+        }
+      ]
+    },
+    {
+      "name": "blastoise",
+      "url": "https://pokeapi.co/api/v2/pokemon/9/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+      },
+      "abilities": [
+        "torrent",
+        "rain-dish"
+      ],
+      "typesData": [
+        {
+          "type": "water"
+        }
+      ]
+    },
+    {
+      "name": "caterpie",
+      "url": "https://pokeapi.co/api/v2/pokemon/10/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+      },
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "typesData": [
+        {
+          "type": "bug"
+        }
+      ]
+    },
+    {
+      "name": "metapod",
+      "url": "https://pokeapi.co/api/v2/pokemon/11/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+      },
+      "abilities": [
+        "shed-skin"
+      ],
+      "typesData": [
+        {
+          "type": "bug"
+        }
+      ]
+    },
+    {
+      "name": "butterfree",
+      "url": "https://pokeapi.co/api/v2/pokemon/12/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+      },
+      "abilities": [
+        "compound-eyes",
+        "tinted-lens"
+      ],
+      "typesData": [
+        {
+          "type": "bug"
+        },
+        {
+          "type": "flying"
+        }
+      ]
+    },
+    {
+      "name": "weedle",
+      "url": "https://pokeapi.co/api/v2/pokemon/13/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+      },
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "typesData": [
+        {
+          "type": "bug"
+        },
+        {
+          "type": "poison"
+        }
+      ]
+    },
+    {
+      "name": "kakuna",
+      "url": "https://pokeapi.co/api/v2/pokemon/14/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+      },
+      "abilities": [
+        "shed-skin"
+      ],
+      "typesData": [
+        {
+          "type": "bug"
+        },
+        {
+          "type": "poison"
+        }
+      ]
+    },
+    {
+      "name": "beedrill",
+      "url": "https://pokeapi.co/api/v2/pokemon/15/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+      },
+      "abilities": [
+        "swarm",
+        "sniper"
+      ],
+      "typesData": [
+        {
+          "type": "bug"
+        },
+        {
+          "type": "poison"
+        }
+      ]
+    },
+    {
+      "name": "pidgey",
+      "url": "https://pokeapi.co/api/v2/pokemon/16/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+      },
+      "abilities": [
+        "keen-eye",
+        "tangled-feet",
+        "big-pecks"
+      ],
+      "typesData": [
+        {
+          "type": "normal"
+        },
+        {
+          "type": "flying"
+        }
+      ]
+    },
+    {
+      "name": "pidgeotto",
+      "url": "https://pokeapi.co/api/v2/pokemon/17/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+      },
+      "abilities": [
+        "keen-eye",
+        "tangled-feet",
+        "big-pecks"
+      ],
+      "typesData": [
+        {
+          "type": "normal"
+        },
+        {
+          "type": "flying"
+        }
+      ]
+    },
+    {
+      "name": "pidgeot",
+      "url": "https://pokeapi.co/api/v2/pokemon/18/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+      },
+      "abilities": [
+        "keen-eye",
+        "tangled-feet",
+        "big-pecks"
+      ],
+      "typesData": [
+        {
+          "type": "normal"
+        },
+        {
+          "type": "flying"
+        }
+      ]
+    },
+    {
+      "name": "rattata",
+      "url": "https://pokeapi.co/api/v2/pokemon/19/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+      },
+      "abilities": [
+        "run-away",
+        "guts",
+        "hustle"
+      ],
+      "typesData": [
+        {
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "raticate",
+      "url": "https://pokeapi.co/api/v2/pokemon/20/",
+      "images": {
+        "url_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+        "url_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+      },
+      "abilities": [
+        "run-away",
+        "guts",
+        "hustle"
+      ],
+      "typesData": [
+        {
+          "type": "normal"
+        }
+      ]
+    }
+  ]
+}
